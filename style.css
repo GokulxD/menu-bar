@@ -30,6 +30,7 @@ nav ul li{
   cursor: pointer;
   position: relative;
   z-index: 2;
+  transition: colour 0.5s;
 }
 nav ul li::after{
   content: '';
